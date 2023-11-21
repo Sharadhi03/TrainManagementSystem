@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainManagementAPI", "TrainManagementAPI\TrainManagementAPI.csproj", "{F02F8778-B83E-4C04-8961-775700F89D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainManagement.Data", "TrainManagement.Data\TrainManagement.Data.csproj", "{58EDB140-D5AF-480A-B72A-8792A6584122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02F8778-B83E-4C04-8961-775700F89D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02F8778-B83E-4C04-8961-775700F89D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02F8778-B83E-4C04-8961-775700F89D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02F8778-B83E-4C04-8961-775700F89D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EDB140-D5AF-480A-B72A-8792A6584122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EDB140-D5AF-480A-B72A-8792A6584122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EDB140-D5AF-480A-B72A-8792A6584122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EDB140-D5AF-480A-B72A-8792A6584122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1038586-E831-43D9-9C14-CF3A50E86C5B}
+	EndGlobalSection
+EndGlobal
